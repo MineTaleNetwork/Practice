@@ -1,0 +1,8 @@
+{
+  "entrypoint": "cc.minetale.practice.Practice",
+  "name": "Practice",
+  "version": "LATEST",
+  "dependencies": [
+    "mLib"
+  ]
+}
